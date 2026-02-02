@@ -50,7 +50,7 @@ export const About = () => {
             <div className="space-y-4 text-muted-foreground animate-fade-in animation-delay-200">
               <p>
                 I'm Ranjan M, a dual-degree graduate in Computer Science and 
-                Data Science from The American College, currently pursuing my 
+                Data Science from The American College, recently completed my 
                 Master's in Computer Applications at PSNACET. Based in Madurai, 
                 I combine strong analytical skills with software development expertise.
               </p>
