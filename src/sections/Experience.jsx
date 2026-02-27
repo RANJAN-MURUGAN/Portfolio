@@ -25,7 +25,7 @@ const education = [
     role: "Master of Computer Applications",
     company: "PSNACET",
     description:
-      "Pursuing MCA with a CGPA of 8.27. Focusing on advanced software development, data structures, algorithms, and enterprise application development. Final year project on automated tomato quality classification using Vision Transformers.",
+      "MCA graduate with a CGPA of 8.27. Focusing on advanced software development, data structures, algorithms, and enterprise application development. Final year project on automated tomato quality classification using Vision Transformers.",
     technologies: ["Software Engineering", "Data Structures", "Database Systems", "Advanced Java"],
     current: false,
   },
