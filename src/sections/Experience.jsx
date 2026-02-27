@@ -1,5 +1,14 @@
 const workExperience = [
   {
+    period: "Jan 2025 — Jun 2025",
+    role: "Software Developer Intern - Final Year Project",
+    company: "Squeez Infotech, Madurai",
+    description:
+      "Developed automated tomato quality sorting system using Vision Transformers (ViT) achieving 95%+ classification accuracy. Implemented end-to-end deep learning pipeline including data preprocessing, model training, and real-time inference deployment. Built computer vision algorithms for image analysis and quality assessment reducing manual sorting time by 70%. Integrated ML model with production system; optimized inference speed to process 50+ images per second.",
+    technologies: ["Vision Transformers", "Deep Learning", "Computer Vision", "Python", "ML Deployment"],
+    current: true,
+  },
+  {
     period: "May 2024 — Jun 2024",
     role: "Data Analyst Intern",
     company: "Trainity (Remote)",
@@ -16,9 +25,9 @@ const education = [
     role: "Master of Computer Applications",
     company: "PSNACET",
     description:
-      "Currently pursuing MCA with a CGPA of 8.27. Focusing on advanced software development, data structures, algorithms, and enterprise application development.",
+      "Pursuing MCA with a CGPA of 8.27. Focusing on advanced software development, data structures, algorithms, and enterprise application development. Final year project on automated tomato quality classification using Vision Transformers.",
     technologies: ["Software Engineering", "Data Structures", "Database Systems", "Advanced Java"],
-    current: true,
+    current: false,
   },
   {
     period: "July 2020 — May 2023",
