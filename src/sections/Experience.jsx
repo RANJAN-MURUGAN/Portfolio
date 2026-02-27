@@ -4,7 +4,7 @@ const workExperience = [
     role: "Software Developer Intern - Final Year Project",
     company: "Squeez Infotech, Madurai",
     description:
-      "Developed automated tomato quality sorting system using Vision Transformers (ViT) achieving 95%+ classification accuracy. Implemented end-to-end deep learning pipeline including data preprocessing, model training, and real-time inference deployment. Built computer vision algorithms for image analysis and quality assessment reducing manual sorting time by 70%. Integrated ML model with production system; optimized inference speed to process 50+ images per second.",
+      "Developed automated tomato quality sorting system using Vision Transformers (ViT) achieving 95%+ classification accuracy. Implemented end-to-end deep learning pipeline including data preprocessing, model training, and real-time inference deployment. Built computer vision algorithms for image analysis and quality assessment reducing manual sorting time by 70%. Optimized inference speed to process 50+ images per second.",
     technologies: ["Vision Transformers", "Deep Learning", "Computer Vision", "Python", "ML Deployment"],
     current: true,
   },
